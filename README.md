@@ -11,7 +11,7 @@ NB. Currently testing with a locally running LLM, LangChain and vector database 
 Install via Git clone:
 
 ```bash
-git clone 
+git clone https://github.com/ninposec/datasnapper
 
 ```
 
@@ -53,14 +53,14 @@ python3 datasnapper.py "https://www.opencve.io/cve?cvss=critical&search=" --outp
 
 Please be aware of the following points regarding the use of tool:
 
-* Respect Website Policies: 
+1. Respect Website Policies: 
 Ensure that you respect the terms of use, privacy policies, and copyright restrictions of the websites you crawl. Unauthorized crawling of websites may violate legal and ethical guidelines.
 
-* Use at Your Own Risk: 
+2. Use at Your Own Risk: 
 The tool is provided as-is without any warranties, express or implied. I do not guarantee the availability, performance, or suitability of datasnapper Web Crawler for any specific purpose.
 
-* Liability Limitation: 
-We shall not be liable for any damages, losses, or liabilities arising from the use of DataSnapper Web Crawler or the data collected through it.
+3. Liability Limitation: 
+Developer of tool shall not be liable for any damages, losses, or liabilities arising from the use of DataSnapper Web Crawler or the data collected through it.
 
 By using DataSnapper Web Crawler, you agree to abide by this disclaimer and take full responsibility for the consequences of your actions. If you do not agree with this disclaimer, refrain from using this tool.
 
