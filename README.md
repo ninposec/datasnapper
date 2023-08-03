@@ -8,6 +8,14 @@ NB. Currently testing with a locally running LLM, LangChain and vector database 
 
 ## Installation
 
+Pre-req:
+
+Install beautifulsoup4 python3 library.
+
+```bash
+pip3 install bs4
+```
+
 Install via Git clone:
 
 ```bash
