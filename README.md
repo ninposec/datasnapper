@@ -52,6 +52,7 @@ python3 datasnapper.py "https://www.opencve.io/cve?cvss=critical&search=" --outp
 
 ### Todo
 
+* Implement crawl and scrape of PDF files
 * Implement option to input user supplied HTTP Headers in order to extract data from web apps behind authentication.
 * Better error handling
 * Implement rate limit of http requests
